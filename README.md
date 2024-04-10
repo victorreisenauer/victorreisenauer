@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am probably the most ambivalent physics student you will ever meet. 
+
+Currently the Neural Radiance Fields really capture my imagination. It combines my passion for coding, AI and videography. I hope to contribute to related projects in my free time. 
+
 <!--
 **victorreisenauer/victorreisenauer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
