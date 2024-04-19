@@ -2,6 +2,8 @@
 
 I am probably the most ambivalent physics student you will ever meet. 
 
+I have worked as a freelance software developer for some years - so the projects here don't really represent my skill level I'd say. But now that I am finishing my studies I hope I can share some more of my work. 
+
 Currently the Neural Radiance Fields really capture my imagination. It combines my passion for coding, AI and videography. I hope to contribute to related projects in my free time. 
 
 <!--
