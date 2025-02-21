@@ -1,6 +1,4 @@
-### Hi there 👋
-
-I suck at coding, but love working with coders to build great businesses. 
+I suck at coding, but I love working with coders to build great businesses. 
 
 <!--
 **victorreisenauer/victorreisenauer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
